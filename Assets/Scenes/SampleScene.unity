@@ -290,9 +290,9 @@ GameObject:
   - component: {fileID: 599833511}
   - component: {fileID: 599833510}
   - component: {fileID: 599833509}
+  - component: {fileID: 599833514}
   - component: {fileID: 599833508}
   - component: {fileID: 599833513}
-  - component: {fileID: 599833514}
   m_Layer: 0
   m_Name: Spaceship
   m_TagString: Untagged
